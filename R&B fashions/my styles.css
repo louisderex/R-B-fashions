@@ -1,0 +1,40 @@
+body{
+     font-family:Georgia, 'Times New Roman', Times, serif;color:black;
+    font-style: normal; font-size: medium; margin:0;padding:0;
+}
+.background{
+
+    background-image: url(first.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:100%,100vh;
+    backface-visibility: visible;
+    background-attachment: fixed;             
+
+}
+
+.button{
+    background-color:white;
+    color:maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: initial;
+    
+
+}
+
+.button1{
+    background-color: rgba(0, 0, 255, 0.76); color: white; border-radius:5px;font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+footer{
+    background-color:none;
+}
+
+
+
+
+
+
+
